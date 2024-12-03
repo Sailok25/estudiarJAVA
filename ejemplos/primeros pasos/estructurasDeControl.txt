@@ -1,0 +1,5 @@
+Tipos de Bucle
+--------------
+for: Adecuado cuando se conoce el número exacto de iteraciones.
+while: Utilizado cuando no se conoce el número exacto de iteraciones y se necesita iterar hasta que se cumpla una condición.
+do-while:	Garantiza que el bloque de código se ejecute al menos una vez, verificando la condición después de cada iteración.
